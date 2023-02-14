@@ -4,7 +4,7 @@ import datetime
 # Set the IP address and credentials for the remote server
 ip_address = "139.144.4.252"
 username = "root"
-password = "TPnter@123"
+password = "P@ssw0rd123"
 
 # Connect to the remote server using Paramiko
 ssh = paramiko.SSHClient()
